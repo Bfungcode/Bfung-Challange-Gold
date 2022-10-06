@@ -12,7 +12,7 @@ const Header = ({ isButtonShow }) => {
                     <Navbar>
                         <Container>
                             <Navbar.Brand href="/">
-                                <h3>PING PING</h3>
+                                <h3>Cartal</h3>
                             </Navbar.Brand>
                             <Nav>
                                 < Nav.Link href="#ourservices"><strong>Our Services</strong></Nav.Link>
